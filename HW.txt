@@ -2,4 +2,5 @@
 title This is your first batch script!
 echo Welcome to batch scripting!
 echo hi!
+echo hi!
 pause
